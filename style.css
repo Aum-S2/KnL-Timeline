@@ -18,6 +18,11 @@ body {
   padding-bottom: 47px;
 }
 
+body header div h1,
+body header div h3 {
+  color: #66cc00;
+}
+
 #main-header {
   background: var(--secondary-color);
   padding: 4.2rem 0;
